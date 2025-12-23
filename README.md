@@ -70,17 +70,18 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisagardunna" />
-</p>
+- 🔹 **GitHub Username:** saisagardunna  
+- 🔹 **Public Repositories:** Actively building and maintaining projects  
+- 🔹 **Primary Tech Stack:** React, DevOps, Python, AWS  
+- 🔹 **Contribution Style:** Consistent commits, real-world projects  
+- 🔹 **Focus Areas:**  
+  - Frontend Engineering  
+  - DevOps & CI/CD  
+  - AI Automation & LLMs  
+- 🔹 **Open Source:** Open to collaboration and contributions  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisagardunna" />
-</p>
+🔗 View full GitHub activity: https://github.com/saisagardunna
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisagardunna&layout=compact" />
-</p>
 
 
 ## 🐍 Contribution Animation
