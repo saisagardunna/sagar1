@@ -68,23 +68,20 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
 
----
-
 ## 📊 GitHub Statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisagardunna&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saisagardunna" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saisagardunna&show_icons=true&locale=en&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisagardunna" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisagardunna&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisagardunna&layout=compact" />
 </p>
 
----
 
 ## 🐍 Contribution Animation
 
